@@ -1,1 +1,1 @@
-export const API_URL = 'https://api.createhq.jafton.com/api/v1';
+export const API_URL = 'api_url_here';
